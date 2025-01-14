@@ -27,13 +27,6 @@ Hi there! I'm **Bibin**, a passionate **Platform Engineer | DevOps Engineer | Li
 
 ---
 
-## 🌟 GitHub Highlights
-![GitHub Streak](https://streak-stats.demolab.com?user=Bibin&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibin&layout=compact&theme=tokyonight)
-
----
-
-## 📂 Featured Projects
 ### 🌐 [Portfolio Website - Bibin UK](https://bibin.uk)
 A showcase of my professional journey, projects, and expertise. Built with modern web technologies.
 
@@ -69,4 +62,4 @@ A showcase of my professional journey, projects, and expertise. Built with moder
 
 ---
 
-Let me know if you'd like further adjustments or additional sections! 😊
+
