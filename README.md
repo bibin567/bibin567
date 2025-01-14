@@ -26,8 +26,21 @@ Hi there! I'm **Bibin**, a passionate **Platform Engineer | DevOps Engineer | Li
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
+# 📊 Skills Overview
 
-### 🌐 [Portfolio Website - Bibin UK](https://bibin.uk)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,linux,gitlab" alt="Skills" />
+</p>
+
+---
+
+### 🌟 My Skills at a Glance
+<div align="center">
+  <img width="50%" src="https://raw.githubusercontent.com/username/username/main/skills-chart.svg" alt="Skill Chart">
+</div>
+---
+
+### 🌐 [Portfolio Website](https://bibin.uk)
 A showcase of my professional journey, projects, and expertise. Built with modern web technologies.
 
 ### 🚀 [CI/CD Pipeline Automation](https://github.com/Bibin/ci-cd-automation)
