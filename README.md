@@ -8,7 +8,7 @@ Hi there! I'm **Bibin**, a passionate **Platform Engineer | DevOps Engineer | Li
 - 🎓 **DevOps Engineer** with a Bachelor's Degree in Engineering.
 - 📜 Certified:  
   - **AWS Certified SysOps Administrator – Associate**  
-  - **AWS Solution Architect**  
+  - **AWS Certified Solution Architect**  
   - **Red Hat Certified Engineer (RHCE)**  
 - 🌐 Proficient in **CI/CD pipelines**, **Kubernetes**, **Docker**, **Terraform**, and **Ansible**.
 - ☁️ Experienced in managing **scalable cloud architectures** and **infrastructure** using **IaC** practices.
@@ -34,4 +34,39 @@ Hi there! I'm **Bibin**, a passionate **Platform Engineer | DevOps Engineer | Li
 ---
 
 ## 📂 Featured Projects
-### 🌐 [Portfolio Website -
+### 🌐 [Portfolio Website - Bibin UK](https://bibin.uk)
+A showcase of my professional journey, projects, and expertise. Built with modern web technologies.
+
+### 🚀 [CI/CD Pipeline Automation](https://github.com/Bibin/ci-cd-automation)
+- Automated CI/CD workflows using GitLab CI.
+- Streamlined deployments with Docker and Kubernetes.
+
+### 🌍 [Infrastructure as Code with Terraform](https://github.com/Bibin/terraform-iac)
+- Provisioned cloud resources on AWS using Terraform.
+- Managed scalable and secure infrastructure.
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibyn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://bibin.uk)
+
+---
+
+## 📈 What I Work On
+- **Cloud Solutions**: Designing scalable, secure architectures on **AWS**.
+- **CI/CD Pipelines**: Automating deployments using GitLab CI and Jenkins.
+- **Containerization**: Deploying and orchestrating applications with **Docker** and **Kubernetes**.
+- **Infrastructure as Code**: Streamlining resource provisioning with **Terraform** and **Ansible**.
+- **Monitoring**: Using tools like **Grafana** and **Prometheus** to ensure system reliability.
+
+---
+
+## 🎯 Fun Facts
+- 📝 I love exploring new tools and methodologies in DevOps.
+- 🎥 Food and travel vlogging is my creative outlet.
+- 🌍 Believer in continuous learning and improvement.
+
+---
+
+Let me know if you'd like further adjustments or additional sections! 😊
